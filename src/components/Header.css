@@ -1,0 +1,9 @@
+.header_edit_bar{
+  color: orange;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header_alarm h1{
+  color:white;
+}
