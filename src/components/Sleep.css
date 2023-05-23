@@ -1,0 +1,19 @@
+.sleep_wake_container h3{
+  color: white;
+}
+.health_set_up{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.health_set_up p{
+  color: grey;
+}
+
+.health_set_up button{
+  border-radius: 10px;
+  height: 1rem;
+  padding: 9px 10px;
+  background-color: rgb(95, 99, 104);
+  color: orange;
+}
